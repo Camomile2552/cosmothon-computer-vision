@@ -1,7 +1,7 @@
 # cosmothon-computer-vision
 Python pipeline for detecting, segmenting, and classifying buildings, roads, and vegetation from high-resolution drone imagery. Combines OpenCV, GDAL, and machine learning to generate vectorized outputs for geospatial analysis.
 
-Aerial Image Land Use Classification & Vectorization
+## Aerial Image Land Use Classification & Vectorization
 To automatically identify and classify objects in an aerial image into categories like buildings, roads, and vegetation, and output vectorized or raster-labeled data for geospatial analysis.
 
 1. Input Data
